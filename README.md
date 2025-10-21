@@ -24,7 +24,7 @@ Il s'agit d'un problème de **classification binaire** : le client va-t-il rembo
 Les données utilisées proviennent de Credit scoring for borrowers in bank sur kaggle.
 
 * **Source :** https://www.kaggle.com/datasets/kapturovalexander/bank-credit-scoring
-* **Volume :** [Nombre] lignes et 17 colonnes.
+* **Volume :** 4521 lignes et 17 colonnes.
 * **Description :** Dataset may have originated from an outside source Bank Marketing. UC Irvine
 (https://archive.ics.uci.edu/dataset/222/bank+marketing)
 
